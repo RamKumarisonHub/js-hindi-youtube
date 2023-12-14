@@ -1,2 +1,2 @@
 console.log("Ram is on Chay today!!")
-console.log("And it's first file on JS.");
+console.log("And it's first file for JavaScript.");
